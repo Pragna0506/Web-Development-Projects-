@@ -1,8 +1,8 @@
 # Web-Development-Projects
-Web-Development-Projects
+ 🚀 Web-Development-Projects
 This repository contains beginner-friendly web development projects built using HTML, CSS, and JavaScript.
 
-# Projects Included:
+✨ Projects Included:
 
 1. Expense Tracker
 
@@ -28,16 +28,16 @@ Responsive design for better user experience.
 Get weather details by entering a city name.
 Uses API integration to fetch real-time data.
 
-# Technologies Used:
+🛠️ Technologies Used:
 HTML5
 CSS3
 JavaScript
 Local Storage
 REST API
 
-# Learning Outcomes :
+🎯Learning Outcomes :
 
 Through these projects, I gained practical experience in HTML, CSS, and JavaScript. I learned how to build responsive and interactive web applications, work with APIs and Local Storage, manipulate the DOM, and improve my problem-solving and debugging skills in front-end development.
 
-# Author
+👩‍💻Author
 Pragna S
