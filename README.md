@@ -31,10 +31,10 @@ Get weather details by entering a city name.
 Uses API integration to fetch real-time data.
 
 🛠️ Technologies Used:
-HTML5
-CSS3
-JavaScript
-Local Storage
+HTML5 ,
+CSS3 ,
+JavaScript ,
+Local Storage ,
 REST API
 
 🎯Learning Outcomes :
