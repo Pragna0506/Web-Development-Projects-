@@ -42,4 +42,5 @@ Uses API integration to fetch real-time data.
 Through these projects, I gained practical experience in HTML, CSS, and JavaScript. I learned how to build responsive and interactive web applications, work with APIs and Local Storage, manipulate the DOM, and improve my problem-solving and debugging skills in front-end development.
 
 👩‍💻Author
+
 Pragna S
